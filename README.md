@@ -1,16 +1,93 @@
-# React + Vite
+# 📝 React Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive Notes App built using React.js and Tailwind CSS.
 
-Currently, two official plugins are available:
+Users can:
+- Add notes
+- Delete notes
+- View notes dynamically
+- Responsive UI for desktop and mobile
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React Hooks (`useState`)
+- Dynamic rendering using `map()`
+- Delete functionality using `filter()`
+- Responsive Tailwind UI
+- Sticky note style cards
+- Smooth button animations
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- React.js
+- Tailwind CSS
+- JavaScript
+- Vite
+
+---
+
+## 📂 Project Setup
+
+Clone the project:
+
+```bash
+git clone <your-repository-link>
+```
+
+Go to project folder:
+
+```bash
+cd notes-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Screenshot
+
+Add your project screenshot here.
+
+---
+
+## 📚 Concepts Learned
+
+- React Components
+- Props
+- useState Hook
+- Controlled Inputs
+- Array `map()`
+- Array `filter()`
+- Event Handling
+- Conditional Rendering
+- Responsive Design
+
+---
+
+## 🌟 Future Improvements
+
+- Edit Notes
+- Local Storage
+- Dark/Light Theme
+- Search Notes
+- Categories/Tags
+
+---
+
+## 👨‍💻 Author
+
+Kartik Singh
